@@ -17,7 +17,7 @@ app.use(cors());
 app.use(express.json());
 
 // ✅ INSERT YOUR PRIVATE API KEY BELOW
-const BLACKBOX_API_KEY = "sk-your_blackbox_api_key_here";  // 👈 replace this with your key
+const BLACKBOX_API_KEY = "sk-Ql-Z_4Mih0CO6DbMvzVpxg";  // 👈 replace this with your key
 
 // ✅ Optional: Personal access password (so only you can use it)
 const ACCESS_KEY = "AKIN_SECRET_2025"; // change if you want
